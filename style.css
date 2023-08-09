@@ -94,6 +94,7 @@ background-color: #3e8e41;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3 ease-in-out;
+    display: none;
 }
 
 #show-more-button:hover{
